@@ -24,5 +24,7 @@ cat  a.csv
 6,a
 
 psql -h localhost -c "\copy basic FROM './a.csv' delimiter ',' csv"
+psql -h localhost -c "select * from basic"
+psql -h localhost -c "select distinct(name) from basic"
 
 ```
