@@ -1,11 +1,9 @@
-# wpod
+# psqlpod
 
-minimal gitpod test
+postgress image
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tailuge/wpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tailuge/psqlpod)
 
 ```
-yarn
-yarn deps
-yarn server
+
 ```
